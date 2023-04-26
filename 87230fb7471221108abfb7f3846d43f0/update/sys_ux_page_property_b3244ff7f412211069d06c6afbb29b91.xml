@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for UCM ServiceNow Workspace generated</description>
+        <name>view</name>
+        <page display_value="UCM ServiceNow Workspace">bf244ff7cd122110e8ff8f8434c9049e</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 14:21:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b3244ff7f412211069d06c6afbb29b91</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="UCM Workspace" source="x_227784_ucm_wor_0">87230fb7471221108abfb7f3846d43f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCM Workspace">87230fb7471221108abfb7f3846d43f0</sys_scope>
+        <sys_update_name>sys_ux_page_property_b3244ff7f412211069d06c6afbb29b91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_227784_ucm_wor_0.bf244ff7cd122110e8ff8f8434c9049e.root.view</unique_name>
+        <value>Workspace-UCM-ServiceNow-Workspace-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3244ff7f412211069d06c6afbb29b91"/>
+</record_update>

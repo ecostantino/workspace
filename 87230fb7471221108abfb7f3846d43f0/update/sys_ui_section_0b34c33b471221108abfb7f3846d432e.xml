@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Other Information" section_id="0b34c33b471221108abfb7f3846d432e" sys_domain="global" table="problem" version="3" view="workspace-ucm-servicenow-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4334c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>c334c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confirmed_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4734c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fix_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>c734c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4b34c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workaround_communicated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>cb34c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fix_communicated_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4f34c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>cf34c33b471221108abfb7f3846d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4334c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confirmed_at</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>c334c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fix_at</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4734c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>c734c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workaround_communicated_at</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4b34c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fix_communicated_at</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>cb34c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>4f34c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_id>cf34c33b471221108abfb7f3846d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="problem" sys_domain="global" view="37244ff7f7122110991ba48f3d62ab8e">0b34c33b471221108abfb7f3846d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Other Information</caption>
+            <header>false</header>
+            <name>problem</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 14:21:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b34c33b471221108abfb7f3846d432e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UCM Workspace" source="x_227784_ucm_wor_0">87230fb7471221108abfb7f3846d43f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UCM Workspace">87230fb7471221108abfb7f3846d43f0</sys_scope>
+            <sys_update_name>sys_ui_section_0b34c33b471221108abfb7f3846d432e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 14:21:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace UCM ServiceNow Workspace 0" name="workspace-ucm-servicenow-workspace-0">37244ff7f7122110991ba48f3d62ab8e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
